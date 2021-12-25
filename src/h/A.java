@@ -7,5 +7,6 @@ public class A {
         System.out.println("dadaf");
         System.out.println("avvv");
         System.out.println("啊哒哒哒");
+        System.out.println("阿达");
     }
 }
